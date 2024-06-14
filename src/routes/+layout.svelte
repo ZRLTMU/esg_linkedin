@@ -17,11 +17,6 @@
         <span class="navbar-toggler-icon" />
       </button>
       <div class="collapse navbar-collapse" id="navbarNavDropdown">
-        <ul class="navbar-nav">
-          <li class="nav-item">
-            <a class="nav-link" href="/config">Posts</a>
-          </li>
-        </ul>
       </div>
     </div>
   </nav>
